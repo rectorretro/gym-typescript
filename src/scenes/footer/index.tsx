@@ -1,5 +1,5 @@
 import Logo from "@/assets/Logo.png";
-type Props = {};
+
 
 function Footer() {
   return (
