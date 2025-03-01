@@ -4,8 +4,7 @@ import {
   AcademicCapIcon,
 } from "@heroicons/react/24/solid";
 import { BenefitType, SelectedPage } from "../../shared/types";
-import { section } from "framer-motion/client";
-import { motion, stagger } from "framer-motion";
+import { motion} from "framer-motion";
 import HText from "../../shared/HText";
 import Benefit from "./Benefit";
 import ActionButton from "../../shared/ActionButton";
